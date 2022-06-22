@@ -7,7 +7,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.2
 mss==5.1.0
 networkx==2.4
-numpy==1.18.5
+numpy==1.22.0
 opencv-contrib-python==4.2.0.34
 opencv-python==4.2.0.34
 Pillow==7.1.2
