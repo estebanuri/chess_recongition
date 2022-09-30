@@ -2,7 +2,7 @@ cycler==0.10.0
 dataclasses==0.7
 decorator==4.4.2
 imageio==2.8.0
-joblib==0.15.1
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.2.2
 mss==5.1.0
